@@ -1,0 +1,3 @@
+untracked/
+*.pyc
+/db.sqlite3
